@@ -1,0 +1,33 @@
+const DUMMY_EXPENSES = [
+    {
+      id: "1",
+      title: "World War ||",
+      description: "The final year of World War II, which saw significant events such as the Allied victory in Europe, the dropping of atomic bombs on Hiroshima and Nagasaki, and the surrender of Japan."    ,
+      date: new Date(1945,8, 2),
+      image_url:
+        "pics/d1945.jpeg",
+    },
+    {
+      id: "2",
+      title: "Korean War ",
+      description: "The Korean War ended in 1953 with an armistice agreement, though a formal peace treaty was never signed, leaving the Korean Peninsula divided.",
+      date: new Date(1953, 5, 27),
+      image_url: "pics/d1953.jpeg",
+    },
+    {
+      id: "3",
+      title: "Vietnam War",
+      description: "This conflict involving North Vietnam, supported by communist allies, and South Vietnam, supported by anti-communist allies, continued into 1969.",
+      date: new Date(1963, 1, 2),
+      image_url:
+        "https://www.pexels.com/photo/man-holding-signal-smoke-264146/ ",
+    },
+    {
+      id: "4",
+      title: "The Bosnian War  ",
+      description: "The Bosnian War concluded in 1995 with the signing of the Dayton Agreement, ending the conflict in Bosnia and Herzegovina.",
+      date: new Date(1995, 12, 14),
+      image_url: "pics/d1995.jpeg",
+       
+    },
+  ];

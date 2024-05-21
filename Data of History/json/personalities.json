@@ -1,0 +1,34 @@
+const DUMMY_EXPENSES = [
+    {
+      id: "1",
+      title: "Steve Martin",
+      description: "Steve Martin is a versatile American entertainer known for his comedic genius. He rose to fame as a stand-up comedian, actor, and writer, captivating audiences with his witty humor and distinctive style. Martin's comedic talents extend to films, music, and literature, making him a beloved figure in the entertainment industry.",
+      date: new Date(1945, 7, 14),
+      image_url:
+        "C:\Users\Reliance\Desktop\29 April\Personalities\PIC\STEVE MARTIN.webp",
+    },
+    {
+      id: "2",
+      title: "Cybill Shepherd",
+      description: "Cybill Shepherd is an American actress and singer known for her versatile talent and captivating performances. She rose to prominence in the 1970s with roles in films like "The Last Picture Show" and "Taxi Driver," showcasing her range as an actress. Shepherd later gained widespread acclaim for her role as Maddie Hayes in the television series "Moonlighting," solidifying her status as a beloved and iconic figure in the entertainment industry.",
+      date: new Date(1953, 1, 18),
+      image_url:
+        "C:\Users\Reliance\Desktop\29 April\Personalities\PIC\Cybill Shepherd.jpg",
+    },
+    {
+      id: "3",
+      title: "Kendall Jenner",
+      description: "Kendall Jenner is an American model and television personality who gained fame through her prominent role in the reality television show "Keeping Up with the Kardashians." Born on November 3, 1995, Jenner quickly rose to prominence in the fashion industry, becoming a sought-after model for top brands and designers. Known for her striking looks, runway presence, and social media influence, she has established herself as one of the leading figures in the world of fashion and entertainment.",
+      date: new Date(1995, 10, 3),
+      image_url:
+        "C:\Users\Reliance\Desktop\29 April\Personalities\PIC\Kendall Jenner.jpg",
+    },
+    {
+      id: "4",
+      title: "Michael Jordan",
+      description: "Michael Jordan, born on February 17, 1963, in Brooklyn, New York, is widely regarded as one of the greatest basketball players of all time. His illustrious career includes six NBA championships with the Chicago Bulls, numerous MVP awards, and a reputation for clutch performances in critical moments. Beyond his on-court success, Jordan's influence transcended sports, making him a global icon for his brand endorsements, including the renowned Air Jordan sneakers. He is not just a basketball legend but also a cultural phenomenon whose impact on the game and popular culture remains profound.",
+      date: new Date(1963, 1, 17),
+      image_url:
+        "C:\Users\Reliance\Desktop\29 April\Personalities\PIC\Michael Jordan.jpg",
+    },
+  ];

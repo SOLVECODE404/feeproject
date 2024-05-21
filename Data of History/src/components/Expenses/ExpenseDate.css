@@ -1,0 +1,13 @@
+.expense-date {
+    font-weight: 800;
+    font-size: 1.3rem;
+    display: flex;
+    width: 5.5rem;    
+    height: 5.5rem;
+    color:rgb(222, 202, 98);
+    align-items: center;
+    justify-content: center;
+    gap: 0.3rem;
+    margin-top: -2.5rem;
+}
+

@@ -1,0 +1,31 @@
+const DUMMY_EXPENSES = [
+    {
+      id: "1",
+      title: " Mount Vesuvius in Italy ",
+      description: "Mount Vesuvius, famous for its devastating eruption in 79 AD that buried the ancient cities of Pompeii and Herculaneum roduced lava flows and ashfall but did not cause widespread destruction or loss of life"    ,
+      date: new Date(1945,2, 18),
+      image_url:"pics/c1945.jpg",
+    },
+    {
+      id: "2",
+      title: "The North Sea Flood of 1953 ",
+      description: " This devastating flood occurred in January 1953, primarily affecting the Netherlands, Belgium, and the United Kingdom, resulting in thousands of deaths and widespread damage.",
+      date: new Date(1953,1, 1),
+      image_url: "pics/c19531.jpeg",
+    },
+    {
+      id: "3",
+      title: "Hurricane Flora ",
+      description: "This powerful hurricane struck the Caribbean in October 1963, causing widespread devastation and resulting in over 7,000 deaths.",
+      date: new Date(1963, 6, 4),
+      image_url:
+        "pics/c1963.jpg",
+    },
+    {
+      id: "4",
+      title: ": The Great Hanshin Earthquake",
+      description: " - A powerful earthquake struck the Hanshin region of Japan on January 17, 1995, causing extensive damage in the city of Kobe and surrounding areas, resulting in over 6,400 deaths and significant economic losses..",
+      date: new Date(1995, 0, 17),
+      image_url: "pics/c1995.jpeg",
+    },
+  ];

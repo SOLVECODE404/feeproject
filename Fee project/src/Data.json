@@ -1,0 +1,293 @@
+{
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/section/hero-img.jpg",
+      "imgLink": "",
+      "title": " History's <br> Depths",
+      "subTitle": "Let's, Dive Into",
+      "designation": ""
+    }
+  
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Welcome to Era Emerge!",
+    "subtitle": "Historical Timeline Website",
+    "text": "At Era Emerge, we're dedicated to illuminating the past and inspiring the future. Our mission is to delve into the annals of history, uncovering the stories, events, and personalities that have shaped civilizations across the ages.   ",
+    "details": [
+      {
+        "title":"Our Vision",
+        "info":"We believe that by understanding our past, we can better navigate the complexities of the present and chart a course for the future. "
+      },
+      {
+        "title": "Our Mission",
+        "info": "Our goal is to provide a platform where users can immerse themselves in the rich tapestry of human history, gaining insights, understanding, and appreciation for the world we inhabit today."
+      },
+      {
+        "title": "Dive Into",
+        "info": "It lies at the core of our historical timeline website, enriching your exploration of the past with tailored experiences. We meticulously curate content, from historical events to articles, ensuring that each piece resonates with your unique interests and preferences."
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "./images/icon/icon1.png",
+        "title": "Monuments Heritage",
+        "text": " A timeline tracing the evolution of iconic monuments and architectural landmarks worldwide, featuring key constructions, architects, and cultural influences.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/icon/icon2.png",
+        "title": "Conflict Chronicles",
+        "text": "A historical timeline chronicling the progression of major wars and armed conflicts throughout human history, highlighting pivotal battles, key figures, and socio-political ramifications.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/icon/icon3.png",
+        "title": "Biographies:",
+        "text": "Profiles of notable historical figures, including leaders, artists, scientists, and philosophers. Each biography could detail the individual's life, accomplishments, and impact on history.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/icon/icon4.png",
+        "title": "Catastrophe Catalog",
+        "text": " A chronological record detailing significant natural disasters and environmental calamities across the globe, documenting their impacts, response efforts, and lessons learned.  ",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/icon/icon5.png",
+        "title": "Cultural Milestones:",
+        "text": "Highlights of cultural movements, artistic achievements, and literary works throughout history. This could encompass everything from the Renaissance to the Harlem Renaissance ",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/icon/icon6.png",
+        "title": "Economic Milestones",
+        "text": "Coverage of important economic events and developments, such as the Industrial Revolution, the Great Depression, and the rise of globalization    ",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "Within these digital halls, a vast repository awaits.",
+    "text": "Where the chronicles of time unfurl, revealing their intricate states.From the ancient sands of Egypt to the Renaissance's bloom,Every era finds its voice, dispelling the gloom.",
+    "skills": [
+      {
+        "title": "Monuments",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500", 
+        "delay": "200"
+      },
+      {
+        "title": "Natural Disaster",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Famous Personalities",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "Wars",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-04-2024",
+        "title": "Explore the newest monuments and architectural marvels that redefine our understanding of history's enduring legacy!"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-04-2024",
+        "title": "Unravel the complexities of modern conflicts and ancient battles, shedding light on the evolving nature of warfare throughout history!"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-04-2024",
+        "title": "Delve into the aftermath of natural disasters throughout history, examining their impact on civilizations and shaping our understanding of resilience and adaptation  "
+      },
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": " "
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "The latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "Ujjwal",
+        "designation": "TIMELINE CURATOR",
+        "text": "Embark on a journey through the annals of time with us. As the Timeline Curator, I meticulously sift through the epochs, crafting a narrative that unveils the secrets of history. Join me in exploring the tapestry of human experience, where each event is a thread, weaving together the fabric of our past!"
+      },
+      {
+        "imgLink": "./images/client/client2.png",
+        "title": "VAIBHAV RANA",
+        "designation": "HISTORICAL NARRATOR",
+        "text": "Embark on a journey through the corridors of time with me. As the Historical Narrator, I weave tales of the past, bringing to life the voices and echoes of history. Join me in unraveling the mysteries of bygone eras, where every word is a window into the past!"
+      },
+      
+    {
+  "imgLink": "./images/client/client3.png",
+  "title": "UTSAV SINGH",
+  "designation": "TIME-TECH ENGINEER",
+  "text": "Step into the realm where past meets present. As the Time-Tech Engineer, I bridge the gap between history and technology, crafting digital experiences that transcend time. Join me in shaping the future of historical exploration, where innovation meets the echoes of the past."
+    },
+    {
+      "imgLink": "./images/client/client1.png",
+      "title": "TimeKeeper",
+      "designation": "HISTORICAL STEWARD",
+      "text": "Welcome to the domain where time's legacy is safeguarded. As the Historical Steward, I oversee the preservation of our shared heritage, ensuring that every story, every artifact, is cherished for generations to come. Join me in honoring the past and charting the course for the future."
+      },
+      {
+        "imgLink": "./images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Executive Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "./images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      }
+    ]
+  },
+  
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": ""
+  },
+  "socialData": [
+    {
+      "icon": "instagram",
+      "title": "Instagram",
+      "link": "/"
+    },
+    {
+      "icon": "behance",
+      "title": "Behance",
+      "link": "/"
+    },
+    {
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "/"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "/"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "facebook-f",
+      "link": "/facebook"
+    },
+    {
+      "icon": "twitter",
+      "link": "/twitter"
+    },
+    {
+      "icon": "github",
+      "link": "/github"
+    }
+  ]
+}

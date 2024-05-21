@@ -1,0 +1,7 @@
+.headingofmainpage{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-image: url("./pics/hero-bg.jpg");
+}

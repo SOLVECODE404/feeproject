@@ -1,0 +1,76 @@
+    .expense-item {
+        margin: 1.2rem;
+        gap: 1rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 1.5rem;
+        width: 240px; 
+        max-width: 100%; 
+        background-color: #323131;
+        position: relative;
+        overflow: hidden; 
+        border-radius: 10px;
+        backdrop-filter: blur(10px);
+        transition: transform 0.3s ease; 
+    }
+
+    .expense-item:hover {
+        transform: translateY(-5px); 
+        transform: scale(1.08); 
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); 
+        background-color: rgba(255, 255, 255, 0.15);
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+        transition: all 0.3s ease;
+        color: rgb(2, 38, 26);
+    }
+
+    .expense-item_description {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 0.5rem;
+        /* margin-top: -1rem; */
+        color: aquamarine;
+        text-align: center;
+    }
+
+    .expense-item h2 {
+        color: rgb(253, 255, 249);
+        font-weight: 400;
+        font-size: 1.5rem;
+        margin-top: 1rem;
+    }
+    .expense-item h2:hover {
+        font-weight: 600;
+        font-size: 1.7rem;
+        opacity: 100%;
+    }
+
+    .expense-item_price {
+        font-size: 1rem;
+        font-weight: bold;
+        color: rgb(208, 142, 43);
+        margin-top: -1rem;
+        font-family: Arial, sans-serif;
+    }
+
+    .expense-pic_url {
+        display: flex;
+        justify-content: center;
+    }
+
+    .expense-pic_url img {
+        width: 240px;
+        max-width: 100%; 
+        height: 170px;
+        border: 1.5px solid rgb(102, 146, 195);
+        border-radius: 10px;
+        transition: transform 0.3s ease;
+    }
+
+    .expense-pic_url img:hover {
+        transform: scale(1.05); 
+    }

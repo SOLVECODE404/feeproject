@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headerdata{
+    width: 98vw;
+    height: 4rem;
+    background-color:#070d1b;
+}
+.headingofmain
+{
+  color:yellow;
+}
+.headingofmainpage{
+    top: 1.2rem;
+    color: white;
+    font-size: 2.2rem;
+    font-weight: bold;
+    right: 28rem;
+    position: relative;
+}
+.headingofmain2{
+    top: 1.2rem;
+    color: white;
+    font-size: 2.1rem;
+    font-weight: bold;
+    right: 28rem;
+}
+.headingofmain2:hover{
+    cursor: pointer;
+    color:yellow
+}
+.headingofcontent{
+    display:flex;
+    gap:2rem;
+    position: absolute;
+    right:2.5rem;     
+    top:1rem;
+}
